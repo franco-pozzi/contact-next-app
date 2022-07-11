@@ -8,9 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Consigna: 
-
-Crear aplicación NextJS sin backend, en la que podamos manejar una agenda de contactos. Los contactos tendrán los siguientes datos:
+Aplicación NextJS sin backend, en la que podamos manejar una agenda de contactos. Los contactos tendrán los siguientes datos:
 - Nombre
 - Dirección
 - Teléfono
